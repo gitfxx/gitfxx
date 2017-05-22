@@ -1691,7 +1691,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c30d8c;
+  background: #733203;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2778,4 +2778,21 @@ hr {
     width: auto;
     text-align: center;
   }
+}
+.busuanzi-count {
+  display: inline-block;
+  margin-left: 15px;
+  float: left;
+}
+.powered-by {
+  display: none;
+}
+.theme-info {
+  display: none;
+}
+.copyright {
+  float: left;
+}
+.busuanzi-value {
+  margin: 0 3px !important;
 }
